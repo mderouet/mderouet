@@ -1,7 +1,6 @@
 ### Hi there 👋 I'm Martin!
-I'm <b>Martin</b>, I'm between 25 and 30 years old depending when you're looking at this page, I'm a French 🇫🇷 developer, I'm found of new technologies interested in programming, continuous integration as well as networking and linux.
+I'm <b>Martin</b>, I'm between 25 and 30 years old depending on when you're looking at this page, I'm a French 🇫🇷 developer, I'm found of new technologies interested in programming, continuous integration as well as networking and linux. I'm mostly working on private repositories, feel free to contact me if you want more information !<br />
 
-<br />
 
 ![Mderouet's github stats](https://github-readme-stats.vercel.app/api?username=mderouet&show_icons=true&theme=gotham&count_private=true)
 
